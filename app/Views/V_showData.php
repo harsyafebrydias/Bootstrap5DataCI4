@@ -137,7 +137,7 @@
   <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
   <div class="text-white">
     © 2023 Copyright:
-    <a class="text-dark" href="081513087967">Whatsapp Contact</a>
+    <a class="text-white" href="081513087967">Whatsapp Contact</a>
   </div>
   <!-- Copyright -->
 </footer>
